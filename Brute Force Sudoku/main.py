@@ -1,5 +1,5 @@
 '''
-Program: EECS 210 Assignment 6
+Program: Assignment 6
 Description: Recursive algorithym that finds if Sudoku puzzle is solveable, and if so solves it
 Inputs:
   make_num(matrix)
