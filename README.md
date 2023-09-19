@@ -10,3 +10,5 @@ This was my first crack at java in High School, and for a final project I made a
 I was assigned the task to make a brute force vigenere cipher decryptor to simulate how a hacker can intercepot and decrypt encrypted messages. While it is not as efficient as I would have hoped for, I am still very proud of it since this was my first project oriented towards Ciber Security
 ## Halloween Maze Solver
 This was my first ever puzzle solver, and to top it off it was Halloween themed! We were allowed to input the dimension of the maze, the starting position of Bob the Blob, and the maze itself into an input.txt. The maze itself used '#' as a wall, 'P' as a piece of candy, 'S' as a sidewalk, and '@' as a man hole than Bob could warp to. Using recursion, I would calculate how many pieces of candy Bob was able to eat, and his final path idecated by 'B'. I had a really fun time working on this and it really helped me understand how recursion works.
+## Haskel Functions
+This was my first look into strictly functional programming languages. I worked through 5 different functions that proved to be both challenging and insightful.
