@@ -1,4 +1,4 @@
---Program: EECS 368 Assignment 6
+--Program: Assignment 6
 --Description: Haskell function for replicate
 --Inputs:
   --replicate': Int and a element
