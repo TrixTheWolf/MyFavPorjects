@@ -1,5 +1,7 @@
 # MyFavPorjects
 Welcome to my repository! Here are a few of my favorite projects I've worked on over the years.
+## March Madness Fan Sentiment Analysis
+This project investigated the relationship between a March Madness team’s seed and performance with sentiment expressed by fans in YouTube comments during the 2026 March Madness Tournament. We developed a pipeline, utilizing the YouTube Data API v3, to collect comments from 63 game highlight videos. This data was then passed through a RoBERTa model pre-trained on Twitter text and a customized JSON dictionary to assign sentiment to the teams being discussed in each comment. Through the analysis, the data concluded that average sentiment across the entire tournament was predominantly positive, being led by the 9 and 13 seeds. Conversely, negative comments were largely directed at the losing team for any given game, with the 8 seed being the most adversely affected by the 4 upsets in the round of 64. As the tournament progressed, the videos received more total comments, but mostly more positive comments. These results show an expected trend of fans engaging more positively as the tournament progresses and the matchups get more competitive.
 ## Brute Force Sudoku
 I was assigned the task to create a brute force puzzle solver that would return the solved sudoku puzzle. I had to solve a total of 5 puzzles using python.
 ## HackWashU
